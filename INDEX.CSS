@@ -1,0 +1,18 @@
+p{ border-style: solid
+
+}
+ol li{
+    color: blueviolet;
+}
+ul li{
+    color: brown;
+}
+tr td {
+    color: rgb(5, 42, 224);
+}
+table {
+    background-color: rgb(237, 212, 115);
+}
+p{
+background-color: cornflowerblue;
+}

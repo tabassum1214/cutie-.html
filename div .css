@@ -1,0 +1,38 @@
+h1{ color: black;
+}
+h2{
+    color: cornflowerblue;
+}
+.mm{
+height: 400px;
+width: 400px;
+background-color: rgb(142, 169, 251);
+text-align: center;
+}
+.mm2{
+    font-size: 50px;
+
+}
+.hh{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(25, 29, 39);
+    text-align: center;
+    }
+.hh2{
+    font-size: 50px;
+}
+.ss{  height: 400px;
+    width: 400px;
+    background-color: rgb(52, 60, 79);
+    text-align: center;
+   
+}
+.ss2 {
+
+    font-size: 50px;
+
+
+}
+
+
